@@ -1,6 +1,3 @@
-# StudentGrading
-Calculate student's marks and find the average before assigning the grade of the marks
-
 # Student Grading Application
 This C# Application calculates and displays the final grades of students based on their assignment scores. It automates the grading process by computing the average score of each student and assigning a letter grade.
 
